@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1685541601 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask2\heapsort.c
+	"sorting.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685547906 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask2\quicksort.c
+	"sorting.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685358906 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask2\heapsort.h
+	<stdlib.h>
+	<stdio.h>
+	"dataentry.h"
+
+1684943606 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask2\quicksort.h
+	<stdlib.h>
+	<stdio.h>
+
+1685539283 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sorting.h"
+	"dataentry.h"
+
+1685547885 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask2\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685549763 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask2\sorting.h
+	<stdlib.h>
+	<stdio.h>
+	"dataentry.h"
+
+1685541601 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask2\heapsort.c
+	"sorting.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685549763 c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask2\sorting.h
+	<stdlib.h>
+	<stdio.h>
+	"dataentry.h"
+
+1685547885 c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask2\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685547906 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask2\quicksort.c
+	"sorting.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685974836 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sorting.h"
+	"dataentry.h"
+
+1685975550 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask2\heapsort.c
+	"sorting.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685549764 c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask2\sorting.h
+	<stdlib.h>
+	<stdio.h>
+	"dataentry.h"
+
+1685547886 c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask2\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685975550 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sorting.h"
+	"dataentry.h"
+
+1685975550 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask2\quicksort.c
+	"sorting.h"
+	<stdio.h>
+	<stdlib.h>
+
