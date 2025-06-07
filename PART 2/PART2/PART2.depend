@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1685983953 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\part 2\part2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+
+1685983953 c:\users\theok_iykl84u\onedrive\desktop\project data structures\part 2\part2\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687294629 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part 2\part2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+
+1685983954 c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part 2\part2\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

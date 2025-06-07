@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1685550769 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask4\bis.c
+
+1685712797 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+
+1685550776 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask4\bis.h
+
+1685552232 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\part1ask4\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685827847 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+
+1685552232 c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask4\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685983196 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+
+1685552234 c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask4\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
