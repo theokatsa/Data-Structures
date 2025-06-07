@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1684874685 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\countingsort\countingsort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"countingsort.h"
+	"dataentry.h"
+
+1684873903 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\countingsort\countingsort.h
+	<string.h>
+	"dataentry.h"
+
+1685357701 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\countingsort\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685357816 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\countingsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"countingsort.h"
+	"mergesort.h"
+
+1684941287 source:c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\countingsort\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mergesort.h"
+	"dataentry.h"
+
+1684874931 c:\users\theok_iykl84u\onedrive\desktop\project\countingsort\countingsort\mergesort.h
+	<string.h>
+	"dataentry.h"
+
+1684941287 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask1\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mergesort.h"
+	"dataentry.h"
+
+1684874931 c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask1\mergesort.h
+	<string.h>
+	"dataentry.h"
+
+1685357701 c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask1\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685739340 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask1\countingsort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"countingsort.h"
+	"dataentry.h"
+
+1684873903 c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask1\countingsort.h
+	<string.h>
+	"dataentry.h"
+
+1685813571 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part1ask1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+	"mergesort.h"
+	"countingsort.h"
+
+1685816480 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask1\countingsort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"countingsort.h"
+	"dataentry.h"
+
+1684873904 c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask1\countingsort.h
+	<string.h>
+	"dataentry.h"
+
+1685357702 c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask1\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685814726 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+	"mergesort.h"
+	"countingsort.h"
+
+1684874932 c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask1\mergesort.h
+	<string.h>
+	"dataentry.h"
+
+1685817836 source:c:\users\theok_iykl84u\onedrive\desktop\project data structures\project data structures\part1ask1\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mergesort.h"
+	"dataentry.h"
+
