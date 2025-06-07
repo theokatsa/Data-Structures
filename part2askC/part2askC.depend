@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685832601 source:c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part2askc\part2askc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataentry.h"
+
+1685832436 c:\users\theok_iykl84u\onedrive\desktop\project\inhere\part2askc\part2askc\dataentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
